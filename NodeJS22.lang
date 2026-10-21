@@ -1,0 +1,199 @@
+[en-us]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x is a JavaScript runtime built on Chrome's V8 JavaScript engine."
+release_note = "Bundles NodeJS v22.23.4 packaged from source"
+important = ""
+
+[zh-cn]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x 是一个基于 Chrome V8 JavaScript 引擎构建的 JavaScript 运行环境。"
+release_note = "包含从源代码打包的 NodeJS v22.23.4"
+important = ""
+
+[zh-hk]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x 是建立在 Chrome V8 JavaScript 引擎上的 JavaScript 運行時環境。"
+release_note = "包含從源代碼打包的 NodeJS v22.23.4"
+important = ""
+
+[ja-jp]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x は、Chrome の V8 JavaScript エンジン上に構築された JavaScript ランタイムです。"
+release_note = "ソースからパッケージ化された NodeJS v22.23.4 が同梱されています"
+important = ""
+
+[de-de]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x ist eine JavaScript-Laufzeitumgebung, die auf der V8 JavaScript-Engine von Chrome basiert."
+release_note = "Enthält NodeJS v22.23.4, aus dem Quellcode paketiert"
+important = ""
+
+[fr-fr]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x est un environnement d'exécution JavaScript basé sur le moteur JavaScript V8 de Chrome."
+release_note = "Intègre NodeJS v22.23.4 paqueté à partir des sources"
+important = ""
+
+[it-it]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x è un runtime JavaScript basato sul motore JavaScript V8 di Chrome."
+release_note = "Include NodeJS v22.23.4 pacchettizzato dal codice sorgente"
+important = ""
+
+[es-es]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x es un entorno de ejecución de JavaScript creado con el motor JavaScript V8 de Chrome."
+release_note = "Incluye NodeJS v22.23.4 empaquetado a partir del código fuente"
+important = ""
+
+[ko-kr]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x는 Chrome의 V8 JavaScript 엔진을 기반으로 구축된 JavaScript 런타임입니다."
+release_note = "소스에서 패키지된 NodeJS v22.23.4를 포함합니다."
+important = ""
+
+[hu-hu]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "A Node.js® 22.x egy JavaScript futtatási környezet, amely a Chrome V8 JavaScript motorjára épül."
+release_note = "Forráskódból csomagolt NodeJS v22.23.4 verziót tartalmaz"
+important = ""
+
+[pl-pl]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x to środowisko uruchomieniowe JavaScript zbudowane w oparciu o silnik JavaScript V8 firmy Chrome."
+release_note = "Zawiera wersję NodeJS v22.23.4 spakowaną ze źródeł"
+important = ""
+
+[ru-ru]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x — это среда выполнения JavaScript, построенная на движке Chrome V8 JavaScript."
+release_note = "Включает NodeJS v22.23.4, собранный из исходного кода"
+important = ""
+
+[tr-tr]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x, Chrome'un V8 JavaScript motoru üzerine kurulmuş bir JavaScript çalışma zamanı ortamıdır."
+release_note = "Kaynak koddan paketlenmiş NodeJS v22.23.4 sürümünü içerir"
+important = ""
+
+[cs-cz]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x je spouštěcí prostředí JavaScriptu postavené na JavaScriptovém enginu V8 pro Chrome."
+release_note = "Obsahuje NodeJS v22.23.4 zabalený ze zdrojového kódu"
+important = ""
+
+[da-dk]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x er et JavaScript-kørselsmiljø bygget på Chromes V8 JavaScript-motor."
+release_note = "Indeholder NodeJS v22.23.4 pakket fra kildekode"
+important = ""
+
+[nl-nl]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x is een JavaScript-runtime gebouwd op de V8 JavaScript-engine van Chrome."
+release_note = "Bevat NodeJS v22.23.4 verpakt vanuit de broncode"
+important = ""
+
+[nb-no]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x er et JavaScript-kjøremiljø bygd på Chromes V8 JavaScript-motor."
+release_note = "Inneholder NodeJS v22.23.4 pakket fra kildekode"
+important = ""
+
+[sv-se]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x är en JavaScript-körningsmiljö byggd på Chromes V8 JavaScript-motor."
+release_note = "Innehåller NodeJS v22.23.4 paketerad från källkod"
+important = ""
+
+[el-gr]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Το Node.js® 22.x είναι ένα περιβάλλον εκτέλεσης JavaScript που βασίζεται στη μηχανή JavaScript V8 του Chrome."
+release_note = "Περιλαμβάνει το NodeJS v22.23.4 συσκευασμένο από τον πηγαίο κώδικα"
+important = ""
+
+[ro-ro]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x este un mediu de rulare JavaScript construit pe motorul JavaScript V8 de la Chrome."
+release_note = "Include NodeJS v22.23.4 pachetizat din codul sursă"
+important = ""
+
+[th-th]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x คือ JavaScript Runtime ที่สร้างขึ้นบน Chrome V8 JavaScript Engine"
+release_note = "รวม NodeJS v22.23.4 ที่แพ็คเกจจากซอร์สโค้ด"
+important = ""
+
+[vi-vn]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x là môi trường thực thi JavaScript được xây dựng trên công cụ V8 JavaScript của Chrome."
+release_note = "Bao gồm NodeJS v22.23.4 được đóng gói từ mã nguồn"
+important = ""
+
+[id-id]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x adalah runtime JavaScript yang dibangun di atas mesin JavaScript V8 Chrome."
+release_note = "Bundel NodeJS v22.23.4 yang dikemas dari kode sumber"
+important = ""
+
+[ar-sa]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x هو بيئة تشغيل JavaScript مبنية على محرك V8 JavaScript الخاص بـ Chrome."
+release_note = "يتضمن NodeJS v22.23.4 المحزوم من المصدر"
+important = ""
+
+[he-il]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "Node.js® 22.x היא סביבת בזמן ריצה של JavaScript הבנויה על מנוע ה-V8 JavaScript של Chrome."
+release_note = "כולל NodeJS v22.23.4 מארוז מקוד המקור"
+important = ""
