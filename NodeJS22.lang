@@ -6,6 +6,14 @@ descript = "Node.js® 22.x is a JavaScript runtime built on Chrome's V8 JavaScri
 release_note = "Bundles NodeJS v22.23.4 packaged from source"
 important = ""
 
+[pt-pt]
+name = "NodeJS 22.x"
+auth = "NodeJS"
+version = "1.00.000"
+descript = "O Node.js® 22.x é um ambiente de execução JavaScript criado com base no motor JavaScript V8 do Chrome."
+release_note = "Inclui o NodeJS v22.23.4 empacotado a partir do código-fonte"
+important = ""
+
 [zh-cn]
 name = "NodeJS 22.x"
 auth = "NodeJS"
